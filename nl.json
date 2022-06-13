@@ -64,7 +64,7 @@
     "app.component.device-status.device-con-list[updating].label": "Update",
 
     "app.component.device-add.mode.label": "Mode",
-    "app.component.device-add.name.label": "Name",
+    "app.component.device-add.name.label": "Naam",
     "app.component.device-add.room_id.label": "Kamer",
     "app.component.device-add.relay_usage.label": "Hebruik",
     "app.component.device-add.image.label": "Icoon",
@@ -209,7 +209,7 @@
     "app.http-service.settings.fetch-error.label": "Instellingen ophalen is mislukt!",
     "app.http-service.add-room.success.label": "Kamer succesvol toegevoegd",
     "app.http-service.add-room.error.label": "Kamer toevoegen is mislukt!",
-    "app.http-service.update-room.success.label": "Kamer succesvol geüpdatet,
+    "app.http-service.update-room.success.label": "Kamer succesvol geüpdatet",
     "app.http-service.update-room.error.label": "Kamer updaten is mislukt!",
     "app.http-service.delete-room.success.label": "Kamer succesvol verwijderd",
     "app.http-service.delete-room.error.label": "Kamer verwijderen is mislukt!",
