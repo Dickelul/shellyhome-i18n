@@ -33,7 +33,7 @@
     "app.component.more.update-devices.label": "Apparaten updaten",
     "app.component.more.language.label" : "Taal",
     "app.component.more.report-error.label" : "Meld een probleem",
-    ."app.component.more.report-error-body.label" : "Omschrijf het probleem en hoe het ontstaan is:",
+    "app.component.more.report-error-body.label" : "Omschrijf het probleem en hoe het ontstaan is",
     "app.component.more.report-error-prompt.label" : "Voeg de fout-logfolder van het document bij de mail toe",
     "app.component.more.backup.label": "Backup",
     "app.component.more.backup.header.label": "Backup app data",
